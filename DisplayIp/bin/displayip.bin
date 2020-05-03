@@ -1,0 +1,4 @@
+#!/bin/sh
+#run the program
+/usr/bin/python3 /home/pi/workbench/DisplayIp/src/display_ip.py 2>&1 >/home/pi/workbench/DisplayIp/logs/display.log &
+
